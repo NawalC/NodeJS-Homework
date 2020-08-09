@@ -18,6 +18,7 @@ GET
 - What is the value of the response header called "Content-Type" ?
 application/json; charset=UTF-8
 - What is the value of the request header called "User-Agent"
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
 
 ## Submission
 
